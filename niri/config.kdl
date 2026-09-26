@@ -10,7 +10,7 @@ environment {
     GTK_THEME "Adwaita:dark"
 }
 
-// cursor {
+ cursor {
 //     // theme, the path ~/.local/share/icons
 //     xcursor-theme "FrierenBLZ"
 //     // size
@@ -18,8 +18,8 @@ environment {
 //     // auto hide
 //     hide-after-inactive-ms 15000
 //     //hide when you are typing
-//     hide-when-typing
-// }
+    hide-when-typing
+ }
 
 
 
